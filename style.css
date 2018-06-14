@@ -1,0 +1,21 @@
+/*
+Theme Name: faller
+Theme URI: http://github.com/A13X4ND7A/faller
+Author: Alexandra Faller
+Author URI: http://alexfaller.uk
+Template: Genesis
+Description: my own child theme based on the genesis framework in which I can build other themes
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: 
+Text Domain: faller
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+@import url('css/normalize.css');
+@import url('css/main.css');
+@import url('css/responsive.css');
+
